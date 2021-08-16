@@ -1,0 +1,53 @@
+﻿trait,decription,varname,year
+2011_UID,Unique Identifier for 2011 Site,UID,2011
+2016_UID,Corresponsing Unique Identifier for 2016 Site,UID,2016
+Latitude,Latitude of AA center coordinate,Latitude,2011
+Longitude,Longitude of AA center coordinate,Longitude,2011
+2016_Latitude,,Latitude,2016
+2016_Longitude,,Longitude,2016
+Latitude difference,,Latitude,DIFF
+Longitude difference,,Longitude,DIFF
+2011_WetlandType,Designated wetland class in 2011 survey,WetlandType,2011
+2016_WetlandType,Designated wetland class in 2016 survey,WetlandType,2016
+2011_NSPP,Species Richness in 2011,NSPP,2011
+2016_NSPP,Species Richness in 2016,NSPP,2016
+NSPP_DIFF,Difference in Species Richness from 2011 to 2016,NSPP,DIFF
+2011_ShannonDiv,Shannon Diversity Index in 2011,ShannonDiv,2011
+2016_ShannonDiv,Shannon Diversity Index in 2016,ShannonDiv,2016
+Shannon_Diff,Difference in Shannon Diversity Index from 2011 to 2016,ShannonDiv,DIFF
+2011_XN_ALIENSPP,Richness of Alien species in 2011,XN_ALIENSPP,2011
+2016_XN_ALIENSPP,Richness of Alien species in 2016,XN_ALIENSPP,2016
+XN_ALIENSPP_DIFF,Difference in Alien species richness from 2011 to 2016,XN_ALIENSPP,DIFF
+2011_XRCOV_ALIENSPP,Average cover (between plots) of alien species in 2011,XRCOV_ALIENSPP,2011
+2016_XRCOV_ALIENSPP,Average cover (between plots) of alien species in 2016,XRCOV_ALIENSPP,2016
+XRCOV_ALIENSPP_DIFF,Difference in average alien species cover from 2011 to 2016,XRCOV_ALIENSPP,DIFF
+2011_XN_NATSPP,,XN_NATSPP,2011
+2016_XN_NATSPP,,XN_NATSPP,2016
+XN_NATSPP_DIFF,,XN_NATSPP,DIFF
+2011_XRCOV_NATSPP,,XRCOV_NATSPP,2011
+2016_XRCOV_NATSPP,,XRCOV_NATSPP,2016
+XRCOV_NATSPP_DIFF,,XRCOV_NATSPP,DIFF
+2011_PCTN_HERB,"Percent Herb Richness (Herb, forb, grammanoid) in 2011",PCTN_HERB,2011
+2016_PCTN_HERB,"Percent Herb Richness (Herb, forb, grammanoid) in 2016",PCTN_HERB,2016
+PCTN_HERB_DIFF,Difference in Percent Herb Richness from 2011 to 2016,PCTN_HERB,DIFF
+16_SLA_prevalence,SLA  traitPrevalence in 2016,SLA_prevalence,2016
+16_AnTol_prevalence,AnTol trait Prevalence in 2016,AnTol_prevalence,2016
+16_CN_prevalence,CN  trait Prevalence in 2016,CN_prevalence,2016
+2011 SLA_Mean,Mean SLA in 2011,SLA_Mean,2011
+2016 SLA_Mean,Mean SLA in 2016,SLA_Mean,2016
+SLA_Change,Change in SLA mean between 2011 to 2016,SLA_Mean,DIFF
+2011 SLA_Variance,SLA Variance in 2011,SLA_Variance,2011
+2016 SLA Variance,SLA Variance in 2016,SLA_Variance,2016
+SLA_Variance_Change,Change in SLA variance between 2011 and 2016,SLA_Variance,DIFF
+2011 Anaerobic Tolerance_ Mean,Mean Anaerobic Tolerance in 2011,AnaerobicTol_Mean,2011
+2016 Anaerobic Tolerance_ Mean,Mean Anaerobic Tolerance in 2016,AnaerobicTol_Mean,2016
+AnaerobicTol_Change,Change in Anaerobic Tolerance mean from 2011 to 2016,AnaerobicTol_Mean,DIFF
+2011 Anaerobic Tolerance_ Variance,Variance of Anaerobic Tolerance in 2011,AnaerobicTol_Variance,2011
+2016 Anaerobic Tolerance_ Variance,Variance of Anaerobic Tolerance in 2016,AnaerobicTol_Variance,2016
+AnaerobicTol_Variance_Change,Change in Anaerobic Tolerance Variance from 2011 to 2016,AnaerobicTol_Variance,DIFF
+2011 CN_Ratio_ Mean,Mean C:N Ratio in 2011,CN_Ratio,2011
+2016 CN_Ratio Mean,Mean C:N Ratio in 2016,CN_Ratio,2016
+CN_Ratio_Change,Change in C:N Ratio mean from 2011 to 2016,CN_Ratio,DIFF
+2011 CN_Variance,Variance of C:N Ratio in 2011,CN_Variance,2011
+2016 CN Ratio Variance,Variance of C:N Ratio in 2016,CN_Variance,2016
+CN_Ratio_Variance_Change,Change in C:N Ratio Variance from 2011 to 2016,CN_Variance,DIFF
